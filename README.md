@@ -10,3 +10,4 @@ Implementations:
 
 Walk-Through GIF:
 Simple_Counter_Walkthrough.gif
+https://github.com/HackerJB10/SimpleCounter/blob/main/app/Simple_Counter_Walkthrough.gif
