@@ -9,4 +9,4 @@ Implementations:
 *User can exchange 100 taps for an icon button instead of the standard one.
 
 Walk-Through GIF:
-
+Simple_Counter_Walkthrough.gif
